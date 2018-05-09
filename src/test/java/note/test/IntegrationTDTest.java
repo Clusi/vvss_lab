@@ -19,7 +19,7 @@ import note.utils.Constants;
 
 import note.controller.NoteController;
 
-public class IntegrationTestTD {
+public class IntegrationTDTest {
 
 	NoteController ctrl;
 	

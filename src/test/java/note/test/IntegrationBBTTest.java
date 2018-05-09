@@ -16,7 +16,7 @@ import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
-public class IntegrationTestBBT {
+public class IntegrationBBTTest {
 
 	NoteController ctrl;
 	
